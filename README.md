@@ -16,3 +16,9 @@ Customer support call analytics, forecasting, and vendor optimization case study
 - Built a **Q1–Q2 2025 forecast (~2.5M calls)** with event-based adjustments (e.g., Easter, Mother’s Day) and translated it into **staffing plans of ~1,200 agents in Q1 and ~800 in Q2**.
 - Recommended a **phased shift in vendor allocation toward Vendor A** to capture cost savings while maintaining an overall **SLA target of 88%+** and tracking satisfaction closely.
 
+## Excel Version
+
+In addition to the Python notebooks, this repo includes an Excel-based implementation of the same analysis and forecasting logic, plus the original written report:
+
+- `excel-solution/Customer_Support_Forecast_Excel.xlsx` – 2024 summary, Q1–Q2 2025 forecast, and staffing model built entirely in Excel.
+- `excel-solution/` Word report – case-study write‑up answering the original assessment questions.
